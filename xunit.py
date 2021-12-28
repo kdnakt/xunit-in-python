@@ -1,3 +1,5 @@
+class WasRun:
+    pass
 
 test = WasRun("testMethod")
 print(test.wasRun)
